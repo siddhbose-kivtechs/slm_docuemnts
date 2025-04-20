@@ -72,12 +72,12 @@ flowchart TD
     D --> E[Language Model Training]
     E --> F[Alignment Fine-tuning]
     
-    A["1. Multimodal Data Collection"]
-    B["2. Modality-Specific Preprocessing"]
-    C["3. Modality Encoders Training"]
-    D["4. Joint Embedding Space"]
-    E["5. Language Model Training"]
-    F["6. Cross-modal Alignment"]
+    A["Multimodal Data Collection"]
+    B["Modality-Specific Preprocessing"]
+    C["Modality Encoders Training"]
+    D["Joint Embedding Space"]
+    E["Language Model Training"]
+    F["Cross-modal Alignment"]
 ```
 
 ### 2. Implementation Details
